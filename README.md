@@ -1,1 +1,3 @@
-# Nathan Carmine CSCI 3308 Lab 3
+# Nathan Carmine
+## CSCI 3308
+### Lab 3
