@@ -1,4 +1,5 @@
 # Nathan Carmine
 ## CSCI 3308
 ### Lab 3
-Might cause merge conflic
+#### Partner: Nolan Cretney
+Might add merge conflict
